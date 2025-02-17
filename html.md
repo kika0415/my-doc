@@ -1,11 +1,12 @@
-# web
+# HTMLに関する知識
+## web
 
 - Structure -> html
   - vs code !
 - Presentation -> css
 - Behavior -> js
 
-# tag
+## tag
 
 - 分类：双标签，单标签
 - 关系：包含与被包含，并列
@@ -22,7 +23,7 @@
 </html>
 ```
 
-## title
+### title
 
 ```html
 <h1>h1</h1>
@@ -40,7 +41,7 @@
  <h5>h5</h5>
  <h6>h6</h6>
 
-## p & br
+### p & br
 
 ```html
 <p>paragragh</br>new line</p>
@@ -50,7 +51,7 @@
 <p>paragragh</br>new line</p>
 <p>new paragragh</p>
 
-## format: strong em
+### format: strong em
 
 ```html
 <strong>strong</strong>
@@ -90,7 +91,7 @@
 <span>span</span>
 <span>span</span>
 
-## image
+### image
 
 ```html
 <image
@@ -112,7 +113,7 @@
 	border="30"
 />
 
-## a
+### a
 
 ```html
 <a href="http://www.qq.com" target="blank">tencent</a> <a href="pic.jpeg.zip">zip exe download</a>
@@ -121,7 +122,7 @@
 <a href="http://www.qq.com" target="blank">tencent</a></br>
 <a href="pic.jpeg.zip" >zip,exe download</a>
 
-## comment
+### comment
 
 ```html
 <!-- this is a comment -->
@@ -178,7 +179,7 @@
 	</tbody>
 </table>
 
-## list
+### list
 
 ```html
 <ul>
@@ -228,7 +229,7 @@
 	<dd>list 3</dd>
 </dl>
 
-## form
+### form
 
 ```html
 <form action="url" method="POST" name="name1">
