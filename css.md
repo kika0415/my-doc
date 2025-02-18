@@ -88,6 +88,19 @@
 - line-height
 
 ## background
+- background-color
+- background-image:url()
+- background-repeat
+  - repeat
+  - no-repeat
+  - repeat-x
+  - repeat-y
+- background-position: x y;
+  - top left
+  - xxpx xxpx
+- background-attachment
+  - fixed
+- background: color image repeat attachment position
 ##
 ##
 ##
