@@ -1,11 +1,13 @@
 # CSS 基本知識
 
 ## basics
+
 ### emmet
+
 - tag
   - tag tab
 - same tag
-  - div*3
+  - div\*3
 - parent
   - ul > li
 - sibling
@@ -19,18 +21,21 @@
   - space
 
 ### selector
-  - >
-  - ,
-  - :
-    - a
-      - :link
-      - :visited
-      - :hover
-      - :active
-    - :first-child
-    - :focus 
-      - input
+
+- >
+- ,
+- :
+  - a
+    - :link
+    - :visited
+    - :hover
+    - :active
+  - :first-child
+  - :focus
+    - input
+
 ### display
+
 - line
   - div,h1~h6,p,ul,ol,li
   - can height,width,padding,margin
@@ -49,6 +54,7 @@
   - display:inline
 
 ### snipaste
+
 - f1
 - f3
 - click alt
@@ -66,19 +72,19 @@
   - italic
   - normal
 - font
-  - font-style font-weight* font-size*/line-height font-family*;
-	```css
-	font: italic 400 16px 'Microsoft yahei';
-	```
-
+  - font-style font-weight* font-size*/line-height font-family\*;
+  ```css
+  font: italic 400 16px 'Microsoft yahei';
+  ```
 
 ## text
+
 - color
   - #fff
   - red
   - rgb
 - text-align
-  - center 
+  - center
   - left
   - right
 - text-indent
@@ -88,6 +94,7 @@
 - line-height
 
 ## background
+
 - background-color
 - background-image:url()
 - background-repeat
@@ -101,9 +108,49 @@
 - background-attachment
   - fixed
 - background: color image repeat attachment position
+
+## box model
+
+- boarder
+  - boarder-width
+  - boarder-style
+    - solid -
+    - dashed ---
+    - dotted
+  - boarder-color
+  - boarder: 1px solid red;
+  - boarder-top
+  - border-collapse
+    - collapse
+- padding
+  - top
+  - right
+  - bottom
+  - left
+  - padding
+    - padding: 5px
+    - paddign: 5px 10px
+    - padding: 5px 10px 15px
+    - padding: 5px 10px 15px 20px
+    - p
+- margin
+  - top
+  - right
+  - bottom
+  - left
+  - margin
+    - margin: 5px
+    - margin: 5px 10px
+    - margin: 5px 10px 15px
+    - margin: 5px 10px 15px 20px
+
+
 ##
+
 ##
+
 ##
+
 ##
-##
+
 ##
